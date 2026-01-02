@@ -11,6 +11,11 @@ By leveraging **PaddleOCR** for document digitization and **Large Language Model
 
 ---
 
+## 🖼️ Project Poster
+![Project Poster](docs/design_doc/poster.png)
+
+---
+
 ## 🚩 Problem Statement
 Government forms in India suffer from significant friction points:
 *   **Language Barriers**: Access is often limited to English or Hindi, excluding millions of vernacular speakers.
